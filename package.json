@@ -84,5 +84,8 @@
     "*.{ts,vue}": [
       "eslint --ext .ts,.vue --fix"
     ]
+  },
+  "engines": {
+    "yarn": "YARN NO LONGER USED - use npm instead."
   }
 }
